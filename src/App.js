@@ -3,7 +3,6 @@ import axios from 'axios';
 import './App.css';
 
 import Main from './Main'
-import Address from './Address'
 
 class App extends Component {
   render() {
