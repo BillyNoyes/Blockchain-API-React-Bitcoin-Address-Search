@@ -2,7 +2,7 @@
 Search to find the balance and latest transactions of a bitcoin address using the Blockchain API and React
 
 ## Setup ##
-1. Run 'npm install' & then 'npm run'
+1. Run 'npm install' & then 'npm start'
 2. The Bitcoin Address Search app will run on localhost:3000
 
 ## Changes to Make ##
